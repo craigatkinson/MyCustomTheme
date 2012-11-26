@@ -43,8 +43,6 @@ class Module
             $layout     = $config['my_custom_theme']['catalog_layout'];
             $controller = $e->getTarget();
             $controller->layout($layout);
-        } else {
-            return;
         }
     }
 }
