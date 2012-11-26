@@ -1,1 +1,1 @@
-example theme/layout override for speck
+example custom layout override for the front end ("catalog")
