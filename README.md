@@ -1,1 +1,1 @@
-example theme/layout override for speck, this implementation allows a custom theme, based on the controller.
+example custom layout override for the front end ("catalog")
